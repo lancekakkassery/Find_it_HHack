@@ -205,7 +205,114 @@
           "longitude": -96.33563054156501
         },
         "tagNumber": "____"
-      }
+      },
+      {
+          "id": 16,
+          "location": {
+            "building": "Francis Hall",  
+            "#'s" : 3,
+            "latitude": 30.612131419495782,
+            "longitude": -96.34137996484749,
+            "color": "Color",
+            "Rooms": "103, 105, 204"
+          },
+          "tagNumber": "___"
+        },
+        {
+            "id": 17,
+            "location": {
+              "building": "Gardens Community Learning Center",  
+              "#'s" : 1,
+              "latitude": 30.626968310038432,
+              "longitude": -96.3413291294508,
+              "color": "Black/White",
+              "Rooms": "101"
+            },
+            "tagNumber": "___"
+        },
+        {
+            "id": 18,
+            "location": {
+              "building": "Hart Residence Hall",  
+              "#'s" : 1,
+              "latitude": 30.6142686523991,
+              "longitude": -96.34061729325835,
+              "color": "Black/White"
+            },
+            "tagNumber": "___"
+        },
+        {
+            "id": 19,
+            "location": {
+              "building": "Horticulture/Forest Science Building",  
+              "#'s" : 1,
+              "latitude": 30.6091559988192,
+              "longitude": -96.35020444865523,
+              "color": "Black/White",
+              "Rooms": "119"
+            },
+            "tagNumber": "___"
+        },
+        {
+            "id": 20,
+            "location": {
+              "building": "Bright Building",  
+              "#'s" : 1,
+              "latitude": 30.61900538332263,
+              "longitude": -96.33883328722098,
+              "color": "Color",
+              "Rooms": "First floor"
+            },
+            "tagNumber": "___"
+        },
+        {
+            "id": 21,
+            "location": {
+              "building": "Hullabaloo Hall",  
+              "#'s" : 1,
+              "latitude": 30.61679330748587,
+              "longitude": -96.34626876083647,
+              "color": "Black/White",
+              "Rooms": "126"
+            },
+            "tagNumber": "___"
+        },
+        {
+            "id": 22,
+            "location": {
+              "building": "ILCB",  
+              "#'s" : 3,
+              "latitude": 30.611989394564198,
+              "longitude": -96.34447758415686,
+              "color": "Black/White and Color",
+              "Rooms": "101,106,217"
+            },
+            "tagNumber": "___"
+        },
+        {
+            "id": 23,
+            "location": {
+              "building": "ILSQ",  
+              "#'s" : 1,
+              "latitude": 30.611163497654875,
+              "longitude": -96.3459722964557,
+              "color": "Black/White",
+              "Rooms": "203"
+            },
+            "tagNumber": "___"
+        },
+        {
+            "id": 24,
+            "location": {
+              "building": "Student Services Building",
+              "#'s" : 1,
+              "latitude": 30.61398004638978,
+              "longitude": -96.34129585715941,
+              "color": "Black/White",
+              "Rooms": "Student Life Center"
+            },
+            "tagNumber": "___"
+        }
       ],
 
 
