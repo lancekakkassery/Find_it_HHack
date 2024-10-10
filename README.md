@@ -9,6 +9,7 @@ Sai Prashanth Lanka
 
 Front End Developers:
 Denise Zonoz
+Ross Moore
 
 
 Back End Developers:
